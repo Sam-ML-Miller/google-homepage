@@ -97,7 +97,7 @@ input[type=search] {
 	margin-left:130px;
 	background-color:#f0f0f0;
 	padding:7px;
-	font-size:13px;
+	font-size:12px;
 	font-family:Arial;
 	font-weight:bold;
 	border-radius:2px;
@@ -111,12 +111,22 @@ input[type=search] {
 	margin-right:130px;
 	background-color:#f0f0f0;
 	padding:7px;
-	font-size:13px;
+	font-size:12px;
 	font-family:Arial;
 	font-weight:bold;
 	border-radius:2px;
 	border:1px solid #e0e0e0;
 	color:dimgray;
+}
+
+#butt1:hover {
+	background-color:#e0e0e0;
+	border:1px solid #d6d6d6;
+}
+
+#butt2:hover {
+	background-color:#e0e0e0;
+	border:1px solid #d6d6d6;
 }
 
 #footer {
